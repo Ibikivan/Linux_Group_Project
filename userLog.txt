@@ -1,0 +1,2 @@
+userdel: moi mail spool (/var/mail/moi) not found
+userdel: Destin2 mail spool (/var/mail/Destin2) not found
